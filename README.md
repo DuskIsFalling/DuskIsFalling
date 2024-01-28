@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DuskIsFalling
+- 👀 I’m interested in personal technical projects
+- 🌱 I’m currently learning Java and data analysis
+- 😄 Pronouns: He/Him
